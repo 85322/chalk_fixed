@@ -4,13 +4,10 @@ console.log(chalk.red("Lost in cosmos!"));
 console.log(chalk.green("Green text working."));
 console.log(chalk.hex("#EE8800").underline("Orange text with underline."));
 console.log(chalk.hex("#000000")(chalk.bgRed("Black text with black background.")));
-//black red get noch nicht ganz
 
 
 
-//npm i chalk
-//starten: node main.js
-//import fix, wegen der version:
+//import module fix
 //https://bobbyhadz.com/blog/javascript-error-err-require-esm-require-of-es-module-not-supported#chalk-error-err_require_esm-require-of-es-module-not-supported
 
 
